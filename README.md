@@ -1,4 +1,5 @@
 # big-file-upload
+## 大文件切片上传，进度监听，上传暂停与断点续传实现。
 
 ## Project setup
 ```
