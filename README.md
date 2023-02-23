@@ -14,14 +14,12 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
 ```
-npm run build
+cd server
 ```
 
-### Lints and fixes files
 ```
-npm run lint
+node index.js
 ```
 
 ### Customize configuration
